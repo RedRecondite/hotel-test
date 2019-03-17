@@ -1,4 +1,5 @@
 //main.c run before start.c
+//Test of a comment
 void main()
 {
   //dink stats
