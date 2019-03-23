@@ -2,5 +2,5 @@
 void talk(void)
 {
     say("Hi Dan!",1);
-    say("Hi Dink!", &current_sprite);
+    say("Hi Donk!", &current_sprite);
 }
