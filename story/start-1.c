@@ -14,7 +14,9 @@ void buttonoff( void )
 
 void click ( void )
 {
-  Say_xy("`%Please wait. (Creating new game)", 0, 394);
+  freeze(1);
+  say_stop_xy("`%Please wait. (Creating new game), Woo!", 0, 394);
+  unfreeze(1);
   wait(1);
 
   //"turns game on"
