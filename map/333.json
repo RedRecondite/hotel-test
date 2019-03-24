@@ -3,6 +3,7 @@
     {
       "id": 1,
       "fixed": true,
+      "active": true,
       "x": 586,
       "y": 8,
       "seq": 33,
@@ -25,6 +26,7 @@
     {
       "id": 2,
       "fixed": true,
+      "active": true,
       "x": 498,
       "y": 295,
       "seq": 33,
@@ -47,6 +49,7 @@
     {
       "id": 3,
       "fixed": true,
+      "active": true,
       "x": 489,
       "y": 144,
       "seq": 33,
@@ -69,6 +72,7 @@
     {
       "id": 4,
       "fixed": true,
+      "active": true,
       "x": 586,
       "y": 344,
       "seq": 33,
@@ -91,6 +95,7 @@
     {
       "id": 5,
       "fixed": true,
+      "active": true,
       "x": 353,
       "y": 174,
       "seq": 32,
@@ -113,6 +118,7 @@
     {
       "id": 6,
       "fixed": true,
+      "active": true,
       "x": 454,
       "y": 389,
       "seq": 32,
@@ -135,6 +141,7 @@
     {
       "id": 7,
       "fixed": true,
+      "active": true,
       "x": 254,
       "y": -12,
       "seq": 32,

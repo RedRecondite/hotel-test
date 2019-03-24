@@ -3,6 +3,7 @@
     {
       "id": 1,
       "fixed": true,
+      "active": true,
       "x": 287,
       "y": 281,
       "seq": 428,

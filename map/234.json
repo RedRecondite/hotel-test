@@ -3,6 +3,7 @@
     {
       "id": 1,
       "fixed": true,
+      "active": true,
       "x": 336,
       "y": 420,
       "seq": 31,
@@ -25,6 +26,7 @@
     {
       "id": 2,
       "fixed": true,
+      "active": true,
       "x": 320,
       "y": 370,
       "seq": 428,
@@ -47,6 +49,7 @@
     {
       "id": 3,
       "fixed": true,
+      "active": true,
       "x": 257,
       "y": 436,
       "seq": 31,
@@ -69,6 +72,7 @@
     {
       "id": 4,
       "fixed": true,
+      "active": true,
       "x": 375,
       "y": 436,
       "seq": 31,
@@ -91,6 +95,7 @@
     {
       "id": 5,
       "fixed": true,
+      "active": true,
       "x": 449,
       "y": 288,
       "seq": 31,
@@ -113,6 +118,7 @@
     {
       "id": 6,
       "fixed": true,
+      "active": true,
       "x": 378,
       "y": 353,
       "seq": 31,
@@ -135,6 +141,7 @@
     {
       "id": 7,
       "fixed": true,
+      "active": true,
       "x": 260,
       "y": 352,
       "seq": 31,
@@ -157,6 +164,7 @@
     {
       "id": 8,
       "fixed": true,
+      "active": true,
       "x": 174,
       "y": 288,
       "seq": 31,
@@ -179,6 +187,7 @@
     {
       "id": 9,
       "fixed": true,
+      "active": true,
       "x": 135,
       "y": 288,
       "seq": 31,
@@ -201,6 +210,7 @@
     {
       "id": 10,
       "fixed": true,
+      "active": true,
       "x": 127,
       "y": 243,
       "seq": 31,
@@ -223,6 +233,7 @@
     {
       "id": 11,
       "fixed": true,
+      "active": true,
       "x": 199,
       "y": 138,
       "seq": 31,
@@ -245,6 +256,7 @@
     {
       "id": 12,
       "fixed": true,
+      "active": true,
       "x": 363,
       "y": 138,
       "seq": 31,
@@ -267,6 +279,7 @@
     {
       "id": 13,
       "fixed": true,
+      "active": true,
       "x": 424,
       "y": 138,
       "seq": 31,
@@ -289,6 +302,7 @@
     {
       "id": 14,
       "fixed": true,
+      "active": true,
       "x": 194,
       "y": 138,
       "seq": 31,
@@ -311,6 +325,7 @@
     {
       "id": 15,
       "fixed": true,
+      "active": true,
       "x": 426,
       "y": 288,
       "seq": 31,
@@ -333,6 +348,7 @@
     {
       "id": 16,
       "fixed": true,
+      "active": true,
       "x": 511,
       "y": 244,
       "seq": 31,
@@ -355,6 +371,7 @@
     {
       "id": 17,
       "fixed": true,
+      "active": true,
       "x": 541,
       "y": 186,
       "seq": 87,
@@ -377,6 +394,7 @@
     {
       "id": 18,
       "fixed": true,
+      "active": true,
       "x": 90,
       "y": 195,
       "seq": 87,
@@ -399,6 +417,7 @@
     {
       "id": 19,
       "fixed": true,
+      "active": true,
       "x": 318,
       "y": 140,
       "seq": 64,

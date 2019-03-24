@@ -3,6 +3,7 @@
     {
       "id": 1,
       "fixed": true,
+      "active": true,
       "x": 253,
       "y": 386,
       "seq": 32,
@@ -25,6 +26,7 @@
     {
       "id": 2,
       "fixed": true,
+      "active": true,
       "x": 404,
       "y": 389,
       "seq": 32,
@@ -47,6 +49,7 @@
     {
       "id": 3,
       "fixed": true,
+      "active": true,
       "x": 404,
       "y": -11,
       "seq": 32,
@@ -69,6 +72,7 @@
     {
       "id": 4,
       "fixed": true,
+      "active": true,
       "x": 254,
       "y": -12,
       "seq": 32,
