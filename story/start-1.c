@@ -34,7 +34,7 @@ void click ( void )
   sp_noclip(1, 0);
 
   //dinks weapons
-  add_item("item-fst", 32, 1);
+  add_item("item-fst", 438, 1);
   &cur_weapon = 1;
   arm_weapon();
 
